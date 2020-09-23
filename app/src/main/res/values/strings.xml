@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corona Virus</string>
+    <string name="provinsi">Lihat Data Provinsi</string>
+    <string name="negara">Lihat Data Negara</string>
+    <string name="world">Sebaran Covid-19 di Dunia</string>
+    <string name="Indonesia">Daftar Sebaran Covid-19 di Indonesia</string>
+</resources>
